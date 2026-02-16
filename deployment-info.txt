@@ -1,0 +1,17 @@
+DEPLOYMENT INFO - Rick Portal Game
+===================================
+
+Network: Sepolia Testnet
+Deployed: [Date]
+
+Contract Addresses:
+-------------------
+QuantumToken: 0x627a09b2957B1a99Aa170a2E78dbCfA84F049E65
+DimensionNFT: 0x71005310c136FCa7cbA1c17681775CBE4Bf12130
+DrPortalGame: 0x9d077bfF5Df383Abf8d56A61Fa4B9E6BD2033669
+
+Sepolia Etherscan:
+------------------
+QuantumToken: https://sepolia.etherscan.io/address/0x627a09b2957B1a99Aa170a2E78dbCfA84F049E65
+DimensionNFT: https://sepolia.etherscan.io/address/0x71005310c136FCa7cbA1c17681775CBE4Bf12130
+DrPortalGame: https://sepolia.etherscan.io/address/0x9d077bfF5Df383Abf8d56A61Fa4B9E6BD2033669
